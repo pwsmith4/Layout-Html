@@ -123,8 +123,8 @@
     display:flex;
     justify-content: space-between;
     background-color: transparent;
-    margin-left: 9%;
-    margin-right: 9%;
+    margin-left: 25%;
+    margin-right: 25%;
 
   }
   .location{
@@ -142,10 +142,12 @@
     text-decoration: bold;
     font-size: 25px;
     margin-bottom: 15px;
+    opacity: 1;
   }
   .location h5 {
     margin-bottom: 15px;
     margin-top: 15px;
+    font-size: 20px;
   }
   .contact{
     height:200px;
